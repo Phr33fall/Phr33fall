@@ -1,14 +1,14 @@
 # Phill Kimpton
 
-Practical security operator building tools for vulnerability management, exposure reduction, Windows hardening, and AI-assisted security workflows.
+I build practical security tools and workflows for vulnerability management, exposure reduction, Windows hardening, and AI-assisted operations.
 
-I focus on turning messy operational problems into repeatable systems: clear triage, better evidence, safer automation, and tools that help teams act rather than just collect findings.
+Most security work fails in the gap between finding a problem and getting someone to own it. My focus is that gap: clearer evidence, better triage, repeatable handovers, and tools that help teams act.
 
 ## Current Focus
 
 - Vulnerability management and exposure accountability
-- Security operations workflows that reduce noise and improve ownership
-- AI-assisted knowledge systems for audit, handover, and repeatable delivery
+- Turning noisy findings into evidence people can use
+- AI-assisted knowledge systems for audit, handover, and delivery
 - Practical Windows hardening and maintenance tooling
 - Trading automation research as a separate builder project
 
