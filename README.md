@@ -16,9 +16,13 @@ Most security work fails in the gap between finding a problem and getting someon
 
 ### Windows Hardening Portable
 
+[windows-hardening-portable](https://github.com/Phr33fall/windows-hardening-portable)
+
 Portable PowerShell hardening script for Windows 10/11 with backups, verification, rollback, and documented controls.
 
 ### Windows Child Maintenance
+
+[windows-child-maintenance](https://github.com/Phr33fall/windows-child-maintenance)
 
 Portable PowerShell maintenance script for Windows child accounts managed with Microsoft Family Safety.
 
