@@ -1,6 +1,6 @@
 # Phill Kimpton
 
-I build practical security tools and AI operating workflows for vulnerability management, exposure reduction, Windows hardening, and long-running AI-assisted work.
+I build practical security tools and AI operating workflows for cyber security and long-running AI-assisted work.
 
 Most security work fails in the gap between finding a problem and getting someone to own it. My focus is that gap: clearer evidence, better triage, repeatable handovers, and tools that help teams act.
 
@@ -15,7 +15,7 @@ Most security work fails in the gap between finding a problem and getting someon
 - ContextOS: persistent, tool-agnostic AI handovers and source-of-truth discipline
 - Vulnerability management and exposure accountability
 - Turning noisy findings into evidence people can use
-- Practical Windows hardening and maintenance tooling
+- Practical Windows hardening and maintenance tooling for everyday users
 - Trading automation research as a separate builder project
 
 ## Public Tools
