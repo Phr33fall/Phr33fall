@@ -30,13 +30,13 @@ The AI librarian skill with clear oversight for handovers, source-of-truth disci
 
 [windows-hardening-portable](https://github.com/Phr33fall/windows-hardening-portable)
 
-Portable PowerShell hardening script for Windows 10/11 with backups, verification, rollback, and documented controls.
+A portable, local PowerShell security baseline script for Windows 10/11 with backups, verification, rollback, and documented controls.
 
 ### Windows Child Maintenance
 
 [windows-child-maintenance](https://github.com/Phr33fall/windows-child-maintenance)
 
-Portable PowerShell maintenance script for Windows child accounts managed with Microsoft Family Safety.
+A Portable PowerShell maintenance script for Windows child accounts managed with Microsoft Family Safety.
 
 ## Principles
 
