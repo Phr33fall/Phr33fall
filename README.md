@@ -44,11 +44,11 @@ Portable PowerShell maintenance script for Windows child accounts managed with M
 - Reproducible workflows over one-off heroics
 - Clear ownership beats vague risk acceptance
 - Automation should make decisions easier to verify, not harder
-- Sensitive client work stays sanitised and separate from reusable tooling
+- Private work stays separate from reusable tooling
 
 ## Notes
 
-Some active work is private while it is being developed, sanitised, or validated. Public repositories here are intended to be safe, reusable, and free of client-specific information.
+Some active work is private while being developed/validated. Public repositories here are intended to be safe, reusable, and practical.
 
 Forked repositories are kept for study, reference, and operational learning. Original public work is listed above.
 
