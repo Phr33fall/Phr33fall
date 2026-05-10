@@ -24,7 +24,7 @@ Most security work fails in the gap between finding a problem and getting someon
 
 [context-os](https://github.com/Phr33fall/context-os)
 
-The AI librarian skill for handovers, source-of-truth discipline, memory hygiene, and cross-tool continuity across Claude, Codex, Obsidian, Notion, Git, and local workflows.
+The AI librarian skill with clear oversight for handovers, source-of-truth discipline, memory hygiene and cross-tool continuity. Built for persistent, tool-agnostic AI workflows that need to survive across models, sessions, notes, repos, project hubs, memory tools, and whatever comes next.
 
 ### Windows Hardening Portable
 
